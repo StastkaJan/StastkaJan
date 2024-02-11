@@ -13,13 +13,6 @@
 🌱 I’m currently learning ...
 - deepining my knowladge of Vue.js
 
-📫 How to reach me ...
-- email: jan.stastka12@gmail.com
-- discord: santafa
-- linkedin: jan-šťástka-0a3845224
-
-😄 Pronouns: He / Him
-
 <!--
 **StastkaJan/StastkaJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
