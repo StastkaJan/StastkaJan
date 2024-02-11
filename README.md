@@ -4,8 +4,10 @@
 - HTML, CSS, JavaScript,
 - Svelte, SvelteKit,
 - Vue.js, Nuxt.js,
+- Node.js, Express.js,
 - SQL, PostgreSQL, MySQL, MongoDB,
-- a little bit of React, Python and Java.
+- Cypress.io, Vitest, Playwright,
+- and a little bit of React, Python and Java.
 
 🔭 I’m currently working on:
 - creating eshop frontend using Vue.js just for fun.
