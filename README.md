@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jan Šťástka
+### Hi there I am Jan Šťástka 👋
 
 🌐 My technology knowledge ...
 - HTML, CSS, JavaScript
