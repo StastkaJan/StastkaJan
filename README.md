@@ -1,17 +1,17 @@
 ### Hi there I am Jan Šťástka 👋
 
-🌐 My technology knowledge ...
-- HTML, CSS, JavaScript
-- Svelte, SvelteKit
-- Vue.js, Nuxt.js
-- SQL, PostgreSQL, MySQL, MongoDB
-- a little bit of React, Python and Java
+🌐 My technology knowledge:
+- HTML, CSS, JavaScript,
+- Svelte, SvelteKit,
+- Vue.js, Nuxt.js,
+- SQL, PostgreSQL, MySQL, MongoDB,
+- a little bit of React, Python and Java.
 
-🔭 I’m currently working on ...
-- creating eshop frontend using Vue.js just for fun 😊
+🔭 I’m currently working on:
+- creating eshop frontend using Vue.js just for fun.
 
-🌱 I’m currently learning ...
-- deepening my knowledge of Vue.js
+🌱 I’m currently learning:
+- deepening my knowledge of Vue.js.
 
 <!--
 **StastkaJan/StastkaJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
