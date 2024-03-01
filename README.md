@@ -10,7 +10,7 @@
 - and a little bit of React, Python and Java.
 
 🔭 I’m currently working on:
-- creating eshop frontend using Vue.js just for fun.
+- creating kanban frontend using Vue.js just.
 
 🌱 I’m currently learning:
 - deepening my knowledge of Vue.js.
