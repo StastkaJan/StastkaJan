@@ -8,9 +8,9 @@
 - SQL, PostgreSQL, MySQL, MongoDB,
 - Cypress.io, Vitest, Playwright,
 - and a little bit of React, Python and Java.
-
+<!--
 🔭 I’m currently working on:
-- creating kanban frontend using Vue.js just.
+- creating kanban frontend using Vue.js.
 
 🌱 I’m currently learning:
 - deepening my knowledge of Vue.js.
